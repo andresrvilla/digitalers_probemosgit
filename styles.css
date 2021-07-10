@@ -1,8 +1,97 @@
 .orientacion
 {
-    margin-left: 68%;
+    margin-left: 37%;
     text-align: center;
-
-
-    
 }
+
+.interes
+{
+    margin-left: 40%;
+    background-color:rgb(247, 67, 35);
+    width: 240px;
+    height: 25px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 10px;
+}
+
+.habilidades
+{
+    margin-left: 60%;
+    margin-top: 223px;
+}
+
+.panelesDerechos
+{
+    margin-left: 60%;
+}
+h1 { /* Corresponde al Nombre*/
+    
+    margin-top: -270px;
+}
+
+h2 {    /*Corresponde a la profesión*/
+    margin-top: 35px;
+}
+
+p {     /*Parrafo - "Breve Descripción de mi" */
+    margin-left: 50%;
+}
+
+h3 { /* Sobre Mi */
+    margin-left: 50%;
+    text-align: left;
+    margin-top: 37px;
+}
+
+h4 { /* Datos de Contacto */
+    background-color:rgb(247, 67, 35);
+    margin-top: 95px;
+    margin-left: 0px;
+    width: 240px;
+    height: 25px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 10px;
+}
+
+h5 { /*Formacion Educativa*/
+    background-color:rgb(247, 67, 35);
+    margin-top: 220px;
+    margin-left: 0px;
+    width: 240px;
+    height: 25px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 10px;
+
+}
+
+h6 { /*Habilidades*/
+    background-color:rgb(247, 67, 35);
+    margin-top: -309px;
+    width: 240px;
+    height: 25px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 10px;
+}
+
+#recRedondeado { /* el rectangulo redondeado */
+    border-radius: 25px;
+    background: rgb(247, 67, 35);
+    padding: 20px; 
+    width: 200px;
+    height: 300px;  
+    margin-top: -29px;
+  }
+ 
+  #circle { /*El circulo en donde ira la foto - Este mas adelante va a volar :v */
+    border-radius: 150px;
+    background: rgb(172, 166, 165);
+    padding: 0px; 
+    width: 235px;
+    height: 235px;  
+    margin-top: 84px;
+    margin-left: -17.7px;
+  }
